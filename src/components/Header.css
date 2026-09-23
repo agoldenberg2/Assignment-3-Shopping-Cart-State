@@ -24,3 +24,12 @@
 .header nav a:hover {
   text-decoration: underline;
 }
+
+
+.cart-count {
+  background-color: #db7867;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-weight: bold;
+}
